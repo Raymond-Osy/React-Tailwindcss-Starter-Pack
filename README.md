@@ -2,7 +2,7 @@
 
 > A simple React, Tailwind starter pack that helps you get up and running with you or your team's react project real quick.
 
-<img width="700" alt="screen shot 2018-08-21 at 9 02 00 pm" src="./src/assets/images/tailwind-react-webpack-config.jpg">
+<img width="700" alt="screen shot 2018-08-21 at 9 02 00 pm" src="./src/assets/images/react-tailwind.jpg">
 
 ## Installation
 
